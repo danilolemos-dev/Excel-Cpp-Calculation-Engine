@@ -1,0 +1,10 @@
+# Visual Studio
+*.obj
+*.exe
+*.pdb
+*.dll
+*.iobj
+*.ipdb
+.vs/
+Debug/
+Release/
